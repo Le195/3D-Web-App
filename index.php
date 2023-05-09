@@ -148,7 +148,7 @@
             </div>
             <div class="col-lg-6 w3l-about-info px-lg-4 align-center">
                 <h6 class="w3l-title-small mb-1">Dr Pepper</h6>
-                <h3 class="w3l-title-main mb-2">Texas, 1885</h3>
+                <h3 class="w3l-title-main mb-2">1855, Texas</h3>
                 <p class="my-4 pe-lg-5">Dr Pepper is a carbonated soft drink. It was created in the 1880s by pharmacist Charles Alderton in Waco, Texas, and first served around 1885. Dr Pepper was first nationally marketed in the United States in 1904. It is now also sold in Europe, Asia, North and South America. In Australia, New Zealand and South Africa, Dr Pepper is sold as an imported good. Variants include Diet Dr Pepper and, beginning in the 2000s, a line of additional flavors.</p>
                 
                 <div class="w3l-btn">
