@@ -99,8 +99,11 @@
     <div class="content-6-mian py-5">
         <div class="container py-lg-5 py-md-4 py-2">
             <div class="content-info-in row">
-               GitHub 
-               <a href="https://github.com" class="btn btn-style btn-secondary mt-lg-5 mt-4 me-2">Kilck it </a>
+                Statement of Originality :
+                <a href="statement.php" class="btn btn-style btn-secondary mt-lg-5 mt-4 me-2">Click it👆 </a>
+
+                This is the GitHub link:
+                <a href="https://github.com/Le195/3D-Web-App" class="btn btn-style btn-secondary mt-lg-5 mt-4 me-2">Click it👆 </a>
             </div>
         </div>
     </div>
