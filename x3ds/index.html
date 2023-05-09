@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <title>Virtual Museum</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="https://www.x3dom.org/release/x3dom.css">
+    <script src="https://www.x3dom.org/release/x3dom.js"></script>
+</head>
+<body>
+
+    <header>
+        <nav>
+            <ul>
+                <li><a href="#">Home</a></li>
+                <li><a href="#">Model 1</a></li>
+                <li><a href="#">Model 2</a></li>
+                <li><a href="#">Model 3</a></li>
+
+            </ul>
+        </nav>
+    </header>
+    <main>
+        <!-- 3D展示区域 -->
+        <div id="container">
+            <x3d width="100%" height="100%">
+                <scene>
+                    <inline url="roses.x3d"></inline>
+                </scene>
+            </x3d>
+        </div>
+    </main>
+</body>
+</html>
